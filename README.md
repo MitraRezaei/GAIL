@@ -1,4 +1,4 @@
-# Imitating pedestrians' behavior project - Presagis
+# Imitating pedestrians' behavior
 
 This project is an implementation of Generative Adversarial Imitation Learning (GAIL).
 
